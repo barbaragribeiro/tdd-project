@@ -1,0 +1,2 @@
+1. Testes de unidade testam somente uma unidade atômica do código, enquanto testes funcionais testam uma funcionalidade fim a fim do sistema.
+2. Testes de unidade são rápidos e rodados diversas vezes ao dia, testes de funcionalidade demoram mais e por isso são rodados menos vezes.
