@@ -1,0 +1,4 @@
+O processo começa com a criação de um teste funcional. Claro, irá falhar, e então devemos passar para o processo de 
+escrever o código necessário para esse teste funcional: escrevemos um teste de unidade, que irá falhar, e então o código 
+para que o teste de unidade passe, seguido da refatoração e mais etapas de escrita de código+refatoração se necessário. 
+Esse subprocesso é repetido até que o teste funcional passe, seguido da refatoração.
